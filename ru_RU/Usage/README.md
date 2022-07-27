@@ -5,7 +5,7 @@
 ### Для Windows
 
 1. Загрузите последний релиз <span>LiteLoaderBDS</span> из [Релизов](https://github.com/LiteLDev/LiteLoader/releases) или [Действий](https://github.com/LiteLDev/LiteLoader/actions), 
-2. Распакуйте <code>LiteLoaderBDS-версия.zip</code> `bedrock_server.exe`. Если вам предлагает заменить файлы, то жмите `Копировать с заменой`.
+2. Распакуйте <code>LiteLoaderBDS-версия.zip</code> в папку с `bedrock_server.exe`. Если вам предлагает заменить файлы, то жмите `Копировать с заменой`.
 3. Убедитесь, что `bedrock_server.pdb` есть в папке.  
    Запустите `LLPeEditor.exe`для генерации BDS с изменённым кодом - (`bedrock_server_mod.exe`)  
 4. Если в консоли будет `Press any key to continue. . . ` , нажмите любую клавишу, чтобы закрыть окно.
