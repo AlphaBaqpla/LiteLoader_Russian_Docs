@@ -4,8 +4,6 @@ heroText:
 tagline: 
 ---
 
-<!-- translated -->
-
 <main aria-labelledby="main-title">
   <header class="hero">
     <img src="/assets/LL-Logo.png" alt="hero"> 
@@ -13,7 +11,7 @@ tagline:
       LiteLoaderBDS
     </h1>
     <p class="description">
-      Легкий &amp; мульти-язычный загрузчик плагинов для Minecraft Bedrock Dedicated Server
+      Легкий &amp; мульти-язычный загрузчик плагинов для Minecraft Bedrock Dedicated Server (BDS)
     </p>
     <p class="action">
       <a href="/ru_RU/" class="nav-link action-button documentation-button">
@@ -23,7 +21,7 @@ tagline:
         Скачать
       </a>
     </p>
-    <p class="version">Версия LiteLoaderBDS: <b>{{ LiteLoaderVersion }}</b> <span>•</span>Версия BDS: <b>{{ BDSVersion }}</b></p>
+    <p class="version">Версия LiteLoaderBDS: <b>{{ LiteLoaderVersion }}</b> <span>•</span> Версия BDS: <b>{{ BDSVersion }}</b></p>
   </header>
   <div class="features">
     <div class="feature" v-for="feature in LiteLoaderFeatures" :id="feature.title">
@@ -34,7 +32,7 @@ tagline:
 </main>
 
 ::: slot footer
-AGPLv3 with extra restrictions & exceptions. <br /> Copyright © 2020 — Present LiteLDev.
+AGPLv3 с дополнительными ограничениями и исключениями. <br /> Авторские права © 2020 — Present LiteLDev.
 :::
 
 <style>
@@ -54,16 +52,16 @@ export default {
     return {
       LiteLoaderFeatures: [
         {
-          title: "Открытый",
-          subtitle: "Полный доступ ко всем функциям и классам"
+          title: "Открытым",
+          subtitle: "Полный доступ ко всем классам и функциям"
         },
         {
           title: "Эффективный",
-          subtitle: "Автоматически сгенерированные заголовки C++ "
+          subtitle: "Автоматически сгенерированные заголовки C ++"
         },
         {
           title: "Расширяемый",
-          subtitle: "Мощное апи"
+          subtitle: "Огромный API"
         }
       ],
       LiteLoaderVersion: "2.X.X",
