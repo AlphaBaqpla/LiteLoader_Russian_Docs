@@ -5,8 +5,6 @@ heroText:
 tagline:
 ---
 
-<!-- translated -->
-
 <div class="content">
     <div class="row">
         <div class="col-sm-3">
@@ -14,16 +12,16 @@ tagline:
         </div>
         <div class="col-sm-9">
             <h1>Навигатор</h1>
-            <p>Здесь вы найдете ссылки на доукментацию по <code>JavaScript/Lua/.NET/C++</code></p>
+            <p>Здесь вы найдете ссылки на <code>JavaScript/Lua/.NET/C++</code> документации</p>
         </div>
     </div>
     <div class="row buttons-content">
-        <div class="col-sm-6 btn-link"><a href="/ru_RU/Usage" class="navigator-link">🔨 Установка и использование</a></div>
-        <div class="col-sm-6 btn-link"><a href="/ru_RU/QA" class="navigator-link">❓ Частые вопросы</a></div>
-        <div class="col-sm-6 btn-link"><a class="navigator-link">⛳ Документация C++ (ожидается)</a></div>
-        <div class="col-sm-6 btn-link"><a class="navigator-link">🪁 Документация .NET (ожидается)</a></div>
-        <div class="col-sm-6 btn-link"><a href="/ru_RU/Development" class="navigator-link">🎯 Документация JavaScript/Lua</a></div>
-        <div class="col-sm-6 btn-link"><a href="/ru_RU/Maintenance" class="navigator-link">🎬 Разработка</a></div>
+        <div class="col-sm-6 btn-link"><a href="/en_US/Usage" class="navigator-link">🔨 Установка и использование</a></div>
+        <div class="col-sm-6 btn-link"><a href="/en_US/QA" class="navigator-link">❓ Известные баги</a></div>
+        <div class="col-sm-6 btn-link"><a class="navigator-link">⛳ C++ Документация (скоро)</a></div>
+        <div class="col-sm-6 btn-link"><a class="navigator-link">🪁 .NET Документация (скоро)</a></div>
+        <div class="col-sm-6 btn-link"><a href="/en_US/Development" class="navigator-link">🎯 JavaScript/Lua Документация</a></div>
+        <div class="col-sm-6 btn-link"><a href="/en_US/Maintenance" class="navigator-link">🎬 Разработка и обслуживание</a></div>
     </div>
 </div>
 
