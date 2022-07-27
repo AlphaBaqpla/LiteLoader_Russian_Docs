@@ -8,7 +8,7 @@ tagline:
 <div class="content">
     <div class="row">
         <div class="col-sm-3">
-            <p class="logo_p"><img src="/assets/compas.png" alt="Logo"></p>
+            <p class="logo_p"><img src="/assets/compass.png" alt="Logo"></p>
         </div>
         <div class="col-sm-9">
             <h1>Навигатор</h1>
