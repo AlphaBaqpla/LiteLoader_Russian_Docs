@@ -16,12 +16,12 @@ tagline:
         </div>
     </div>
     <div class="row buttons-content">
-        <div class="col-sm-6 btn-link"><a href="/en_US/Usage" class="navigator-link">🔨 Установка и использование</a></div>
-        <div class="col-sm-6 btn-link"><a href="/en_US/QA" class="navigator-link">❓ Известные баги</a></div>
+        <div class="col-sm-6 btn-link"><a href="/ru_RU/Usage" class="navigator-link">🔨 Установка и использование</a></div>
+        <div class="col-sm-6 btn-link"><a href="/ru_RU/QA" class="navigator-link">❓ Известные баги</a></div>
         <div class="col-sm-6 btn-link"><a class="navigator-link">⛳ C++ Документация (скоро)</a></div>
         <div class="col-sm-6 btn-link"><a class="navigator-link">🪁 .NET Документация (скоро)</a></div>
-        <div class="col-sm-6 btn-link"><a href="/en_US/Development" class="navigator-link">🎯 JavaScript/Lua Документация</a></div>
-        <div class="col-sm-6 btn-link"><a href="/en_US/Maintenance" class="navigator-link">🎬 Разработка и обслуживание</a></div>
+        <div class="col-sm-6 btn-link"><a href="/ru_RU/Development" class="navigator-link">🎯 JavaScript/Lua Документация</a></div>
+        <div class="col-sm-6 btn-link"><a href="/ru_RU/Maintenance" class="navigator-link">🎬 Разработка и обслуживание</a></div>
     </div>
 </div>
 
