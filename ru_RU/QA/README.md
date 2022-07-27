@@ -1,5 +1,5 @@
 ## Обновление LiteLoaderBDS
-Скачайте новый `LiteLoader-версия.zip`, распакуйте его в папку с BDS
+Скачайте новый `LiteLoader-версия.zip` из [Релиза](https://github.com/LiteLDev/LiteLoaderBDS/releases), распакуйте его в папку с BDS
 
 ## Как обновить Bedrock Dedicated Server (BDS)
 Скачайте последнюю версию BDS с сайта [Minecraft.net](https://www.minecraft.net/en-us/download/server/bedrock), распакуйте все файлы, кроме `server.properties`,`allowlist.json`,`permission.json` to the old version of Bedrock Dedicated Server directory  
